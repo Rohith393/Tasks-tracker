@@ -30,6 +30,14 @@ export const Dashboard = () => {
     localStorage.setItem('tasks', JSON.stringify(tasks));
   }, [tasks]);
 
+  useEffect(() => {
+    if (darkMode) {
+      document.body.classList.add('dark');
+    } else {
+      document.body.classList.remove('dark');
+    }
+  }, [darkMode]);
+     
   if (isLoading) {
     return (
       <div className="loading-container">

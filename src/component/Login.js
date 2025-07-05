@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
- // <-- Make sure this path is correct relative to your file
-
 const Login = () => {
   const [username, setUsername] = useState('');
   const [checkingAuth, setCheckingAuth] = useState(true);
