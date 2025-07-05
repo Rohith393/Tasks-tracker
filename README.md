@@ -39,14 +39,14 @@ Vercel for deployment
 ## Screenshots
 
 Light mode:  
-![Light mode](screenshots/light-mode.png)
+[Light mode](screenshots/light-mode.png)
 
 Dark mode:  
-![Dark mode](screenshots/dark-mode.png)
+[Dark mode](screenshots/dark-mode.png)
 
 Light mode:  
-![Light mode](screenshots\light_mode_with_tasks.png)
+[Light mode](screenshots\light_mode_with_tasks.png)
 
 Dark mode:  
-![Dark mode](screenshots\dark_mode_with_tasks.png)
+[Dark mode](screenshots\dark_mode_with_tasks.png)
 
