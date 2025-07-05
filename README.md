@@ -48,5 +48,5 @@ Light mode:
 [Light mode](screenshots\light_mode_with_tasks.png)
 
 Dark mode:  
-[Dark mode](screenshots\dark_mode_with_tasks.png)
+![Dark mode](screenshots\dark_mode_with_tasks.png)
 
